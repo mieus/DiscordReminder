@@ -1,0 +1,41 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DiscordReminder" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="token" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ODczOTYxNDA4ODAxNDI3NDg2.YRAB_Q.-q5z79SVU0QlJ48dtjeqWjaiwx0</Value>
+    </Setting>
+    <Setting Name="heip" Type="System.String" Scope="User">
+      <Value Profile="(Default)">## Us-Reminder ヘルプ ##
+決まった時間にリマインドします
+
+[コマンド]
+!radd キー文字列 時間(hh:mm) コメント everyoneするかどうか(y,n) 曜日（指定なしだと毎日）
+
+リマインド設定を登録します
+
+例：20:00の通知 19:55 もうすぐ20:00です！ y 月,火,水 
+→月,火,水曜日の19:55に「もうすぐ20:00です！」とeveryoneを付けて投稿されます。
+
+例：20:00の通知 19:55 もうすぐ20:00です！ y
+→毎日19:55に「もうすぐ20:00です！」とeveryoneを付けて投稿されます。
+
+!rdelete キー文字列
+
+リマインド設定を削除します
+
+!rlist
+
+リマインド設定の一覧を表示します
+
+!rstart
+
+リマインドを開始します
+
+!rend
+
+Remindを終了します
+</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
