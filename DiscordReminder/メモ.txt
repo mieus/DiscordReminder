@@ -1,0 +1,3 @@
+ODczOTYxNDA4ODAxNDI3NDg2.YRAB_Q.m0eJHkqm4xoJj4A5YFap3YPda-s
+https://discord.com/api/oauth2/authorize?client_id=873961408801427486&permissions=0&scope=bot
+873964909459812444
