@@ -3,7 +3,7 @@
   <Profiles />
   <Settings>
     <Setting Name="token" Type="System.String" Scope="User">
-      <Value Profile="(Default)">ODczOTYxNDA4ODAxNDI3NDg2.YRAB_Q.-q5z79SVU0QlJ48dtjeqWjaiwx0</Value>
+      <Value Profile="(Default)">ここにトークンを手入力すること</Value>
     </Setting>
     <Setting Name="heip" Type="System.String" Scope="User">
       <Value Profile="(Default)">## Us-Reminder ヘルプ ##

@@ -25,7 +25,7 @@ namespace DiscordReminder {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("ODczOTYxNDA4ODAxNDI3NDg2.YRAB_Q.-q5z79SVU0QlJ48dtjeqWjaiwx0")]
+        [global::System.Configuration.DefaultSettingValueAttribute("ここにトークンを手入力すること")]
         public string token {
             get {
                 return ((string)(this["token"]));
